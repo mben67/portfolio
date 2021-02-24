@@ -1,0 +1,76 @@
+body{
+    background-color: #1D2126;
+}
+
+p a{
+    color:#D8760C;
+}
+
+p a:hover{
+    color:#FC9728;
+    text-decoration:underline;
+}
+
+.columns{
+    margin-top: 4.2%;
+    margin-left: 0.2%;
+    margin-right: 0.2%;
+}
+
+.navbar{
+    background-color:#1D2126
+} 
+        
+.navbar .navbar-start .navbar-item:hover{
+    color:#ffffff
+}
+        
+.navbar-item{
+    color:#BFBFBF;
+    font-size: 20px;
+    margin: 1.5%;
+}
+
+#imgteam{
+    margin-top:10px;
+}
+
+.card{
+    color:#ffffff;
+    background:#1D2126;
+    height:400px;
+    display: inline-block;
+    margin-bottom: 10%;
+    width: 605px;
+}
+
+.column{
+    font-size: 18px;
+}
+       
+.card-image{
+    margin:auto;
+    text-align: center;
+}
+
+.tools{
+    margin-top: -6px;
+}
+
+.list-tools{
+    margin-top:5%;
+}
+
+#project2 p{
+    font-size: 16px;
+}
+
+.title.is-3{
+    color:#FFFFFF;
+    margin-top:2%;
+    margin-left:3%;
+}
+
+#nombre{
+    width: 450px;
+}
